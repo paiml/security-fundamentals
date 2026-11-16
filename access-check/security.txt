@@ -1,0 +1,3 @@
+Contact: https://github.com/paiml/security-fundamentals/security/advisories/new
+Expires: 2027-12-31T23:00:00.000Z
+Preferred-Languages: en

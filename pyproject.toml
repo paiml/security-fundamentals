@@ -1,0 +1,14 @@
+[project]
+name = "security-fundamentals-examples"
+version = "1.0.0"
+description = "The examples from Security Fundamentals"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[dependency-groups]
+dev = [
+    "pytest==9.2.0",
+]
